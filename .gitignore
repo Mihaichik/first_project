@@ -18,6 +18,9 @@ __pycache__/
 *.bak
 *.swp
 
+# Файлы
+*tmp_data.txt
+
 # Системные файлы
 Thumbs.db  # Windows
 .DS_Store  # macOS
